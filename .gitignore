@@ -1,0 +1,21 @@
+# Ignore any model_cache folder recursively
+**/model_cache/
+
+# Other common ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info
+dist/
+build/
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+.env
+.vscode/
+.idea/
